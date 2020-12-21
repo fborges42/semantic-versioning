@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.2](https://github.com/fborges42/semantic-versioning/compare/v0.0.1...v0.0.2) (2020-12-21)
+
+
+### Features
+
+* added login button ([103fb64](https://github.com/fborges42/semantic-versioning/commit/103fb64125748c4f4b8da696e64eff8b44f20626))
+
 ### 0.0.1 (2020-12-21)
 
 
