@@ -1,0 +1,14 @@
+.container {
+  max-width: 12rem;
+  width: 30%;
+
+  > *:nth-child(n + 2) {
+    margin: 8px 0;
+  }
+}
+
+.d-flex {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+}
