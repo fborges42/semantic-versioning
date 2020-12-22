@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/fborges42/semantic-versioning/compare/v1.1.1...v2.0.0) (2020-12-22)
+
+
+### ⚠ BREAKING CHANGES
+
+* breaking change feature by removing the recover button
+
+### Features
+
+* breaking change feature by removing the recover button ([b35671d](https://github.com/fborges42/semantic-versioning/commit/b35671dff046b173960df762a72a0b1d1d073764))
+
 ### [1.1.1](https://github.com/fborges42/semantic-versioning/compare/v1.1.0...v1.1.1) (2020-12-22)
 
 
