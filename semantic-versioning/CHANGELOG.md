@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.1.0](https://github.com/fborges42/semantic-versioning/compare/v0.0.0...v0.1.0) (2020-12-22)
+
+
+### ⚠ BREAKING CHANGES
+
+* major version test
+
+### Features
+
+* major version test ([e0fba51](https://github.com/fborges42/semantic-versioning/commit/e0fba51c361fb03903ef1a47dbf8dfa8f80e4794))
+* recover button ([444abfa](https://github.com/fborges42/semantic-versioning/commit/444abfa89ba774f02b62a144ad9a818e85357485))
+
 ## [0.0.0](https://github.com/fborges42/semantic-versioning/compare/v0.0.3...v0.0.0) (2020-12-21)
 
 
