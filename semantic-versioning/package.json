@@ -1,6 +1,6 @@
 {
   "name": "semantic-versioning",
-  "version": "0.1.6-beta.0",
+  "version": "0.1.6",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
