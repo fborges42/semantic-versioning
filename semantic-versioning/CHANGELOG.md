@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.1](https://github.com/fborges42/semantic-versioning/compare/v0.1.0...v0.1.1) (2020-12-22)
+
+
+### Features
+
+* feat change ([8cf49d1](https://github.com/fborges42/semantic-versioning/commit/8cf49d1ffdccadb14f770ffe2f2bf4cb87cc3e23))
+
 ## [0.1.0](https://github.com/fborges42/semantic-versioning/compare/v0.0.0...v0.1.0) (2020-12-22)
 
 
