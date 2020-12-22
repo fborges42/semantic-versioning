@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.9](https://github.com/fborges42/semantic-versioning/compare/v0.1.8...v0.1.9) (2020-12-22)
+
+
+### Features
+
+* readd buttons ([23dd3bd](https://github.com/fborges42/semantic-versioning/commit/23dd3bdedc0b74fa7595b07a0b7d87a01ae74c11))
+
 ### [0.1.8](https://github.com/fborges42/semantic-versioning/compare/v0.1.7...v0.1.8) (2020-12-22)
 
 ### [0.1.7](https://github.com/fborges42/semantic-versioning/compare/v0.1.6...v0.1.7) (2020-12-22)
