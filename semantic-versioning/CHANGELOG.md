@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/fborges42/semantic-versioning/compare/v1.0.0...v1.1.0) (2020-12-22)
+
+
+### Features
+
+* reset password button ([62ce182](https://github.com/fborges42/semantic-versioning/commit/62ce1824dd022fd0a52124493c33f09cd832e9a0))
+
+
+### Bug Fixes
+
+* wrong label for recover button ([c7d439c](https://github.com/fborges42/semantic-versioning/commit/c7d439c000cfbf10496d5bf00cb709aeb69731aa))
+
 ## [1.0.0](https://github.com/fborges42/semantic-versioning/compare/v0.1.9...v1.0.0) (2020-12-22)
 
 ### [0.1.9](https://github.com/fborges42/semantic-versioning/compare/v0.1.8...v0.1.9) (2020-12-22)
