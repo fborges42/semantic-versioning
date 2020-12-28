@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.1](https://github.com/fborges42/semantic-versioning/compare/v2.0.0...v2.0.1) (2020-12-28)
+
+
+### Bug Fixes
+
+* updated placeholder for username input ([52700e0](https://github.com/fborges42/semantic-versioning/commit/52700e02a57461aee880081077b96cd1a888ff73))
+
 ## [2.0.0](https://github.com/fborges42/semantic-versioning/compare/v1.1.1...v2.0.0) (2020-12-22)
 
 
